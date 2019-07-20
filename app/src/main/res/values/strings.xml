@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Card Validator</string>
+
+    <string name="error_input_valid_card">Enter Valid Card Number.</string>
+    <string name="error_input_alpha_numberic">Check Input Card Number</string>
+    <string name="error_invalid_card_number">Invalid Card Number.</string>
+    <string name="success_valid_card">Valid Card Number.</string>
+    <string name="cvv_number_hint">Max numbers allowed %1$d</string>
+</resources>
